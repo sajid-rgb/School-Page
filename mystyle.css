@@ -1,0 +1,77 @@
+.head{
+    background-image: url("background.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position:center;
+}
+li{
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+    position: relative;
+    left: 60%;
+    
+}
+a{
+    text-decoration: none;
+    color:blue;
+}
+input{
+    position: relative;
+    left: 60%;
+    margin: 8px;
+    width: 90px;
+    border-radius: 10px;
+}
+.main{
+    text-transform: uppercase;
+    color:teal;
+    position: relative;
+    left: 33%;
+    bottom: 70px;
+}
+h1{
+    font-size: 30px;
+    position: relative;
+    bottom: 20px;
+    font-weight: bold;
+    color:lightseagreen;
+    opacity: 1;
+}
+.logoimage{
+    position: relative;
+    bottom: 55px;
+    left: 35%;
+    color:navy;
+}
+.logo img{
+    width: 50px;
+    padding: 2px;
+    position: relative;
+    right: 25px;
+}
+h4{
+    position: relative;
+    left: 35px;
+    bottom: 70px;
+    font-size: 20px;
+}
+.link{
+    position: relative;
+    left: 33%;
+    bottom: 100px;
+    margin: 0%;
+    
+}
+.link a{
+    border: 1px solid;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+#browse{
+    background-color: blue;
+    color: white;
+    
+}
